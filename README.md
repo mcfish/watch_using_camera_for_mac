@@ -1,0 +1,2 @@
+# watch_using_camera_for_mac
+Macのカメラが起動してるかどうかチェックするシェルスクリプト
